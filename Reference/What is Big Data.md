@@ -21,6 +21,7 @@ Ref - https://www.sas.com/en_us/insights/big-data/what-is-big-data.html
 
 * Complexity. Today's data comes from multiple sources, which makes it difficult to link, match, cleanse and transform data across systems. However, it’s necessary to connect and correlate relationships, hierarchies and multiple data linkages or your data can quickly spiral out of control.
 
-| Inforgraphics |
-| _ |
-| https://www.ibmbigdatahub.com/sites/default/files/styles/xlarge-scaled/public/infographic_image/4-Vs-of-big-data.jpg?itok=4syrvSLX |
+Inforgraphics |
+ --- |
+https://www.ibmbigdatahub.com/sites/default/files/styles/xlarge-scaled/public/infographic_image/4-Vs-of-big-data.jpg?itok=4syrvSLX |
+https://image.slidesharecdn.com/makeintelligentdecisionswbigdata-121031162156-phpapp01/95/make-intelligent-decisions-with-big-data-infographic-1-638.jpg?cb=1374751071 |
