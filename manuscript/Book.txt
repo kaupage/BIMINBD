@@ -1,3 +1,6 @@
 Introduction to Big Data.txt
 Introduction to BIM.txt
 Why Big Data?.txt
+Current Affairs.txt
+Where we need to go?.txt
+The Future.txt
